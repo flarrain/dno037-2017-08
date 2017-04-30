@@ -2,10 +2,10 @@
 <div class="container">
   <div class="col-sm-12 col-lg-10 col-lg-offset-1">
   <header>
-  <h1>Smart Citizen Kit<br><small>Sensores ciudadanos</small></h1>
-  <p>El Smart Citizen Kit es una placa electrónica basada en Arduino que está equipada con sensores de calidad de aire, temperatura, sonido, humedad e iluminación. Esta placa electrónica contiene un cargador solar que permite conectarla paneles fotovoltaicos para poder instalarla en cualquier lugar. La placa viene equipada con una antena WiFi que permite subir los datos de los sensores en tiempo real a plataformas online.</p>
-  <p>En lo que sigue consultaremos datos subidos recientemente por algunos Smart Citizen Kit.</p>
-  <p>Fuente: <a href="http://developer.smartcitizen.me/#devices">http://developer.smartcitizen.me/#devices</a></p>
+    <h1>Smart Citizen Kit<br><small>Sensores ciudadanos</small></h1>
+    <p><strong>El Smart Citizen Kit es una placa</strong> electrónica basada en Arduino que está <strong>equipada con sensores de calidad de aire, temperatura, sonido, humedad e iluminación</strong>. Esta placa electrónica contiene un cargador solar que permite conectarla paneles fotovoltaicos para poder instalarla en cualquier lugar. La placa viene equipada con una antena WiFi que permite subir los datos de los sensores en tiempo real a plataformas online.</p>
+    <p>En lo que sigue consultaremos datos subidos recientemente por algunos Smart Citizen Kit.</p>
+    <p>Fuente: <a href="http://developer.smartcitizen.me/#devices">http://developer.smartcitizen.me/#devices</a></p>
   </header>
 </div>
 <div class="col-sm-12 col-lg-10 col-lg-offset-1">

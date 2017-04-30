@@ -1,4 +1,18 @@
-body{padding-top:50px;}
-section{padding-bottom:50px;}
-footer{margin-top:30px; border-top:1px solid #ddd; padding:20px 0;}
-#mapid { height: 500px;}
+body{padding-top:60px;}
+section{padding-bottom:25px;}
+footer{margin-top:25px; border-top:1px solid #ddd; padding:15px 0; font-size:90%; letter-spacing: 0.05em;}
+#mapid { height: 400px;}
+p{
+overflow-wrap: break-word;
+word-wrap: break-word;
+-ms-word-break: break-all;
+word-break: break-all;
+word-break: break-word;
+-ms-hyphens: auto;
+-moz-hyphens: auto;
+-webkit-hyphens: auto;
+hyphens: auto;
+}
+.img-responsive{
+  padding:0.5em 0 1em 0;
+}

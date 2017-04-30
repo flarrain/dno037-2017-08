@@ -17,13 +17,13 @@
     <p>En los últimos 30 días se han registrado <?php echo $all = count($json_data['features']);?> movimiento telúricos alrededor del mundo; Chile es una pequeña parte del mundo:</p>
     <ol>
     <?php $cl = 0; $costacentral = 0;?>
-    <?php for ($b = 0; $b < $all; $b++) {?>
-    <?php if (substr_count($json_data['features'][$b]['properties']['place'],'Chile') > 0){?>
+    <?php for ($n = 0; $n < $all; $n++) {?>
+    <?php if (substr_count($json_data['features'][$n]['properties']['place'],'Chile') > 0){?>
     <?php $cl++ ;?>
-    <li <?php if ($json_data['features'][$b]['properties']['mag'] >= 6){?> style="color:RGB(224, 21, 36);" <?php } elseif($json_data['features'][$b]['properties']['mag'] >= 5){ ?> style="color:RGB(149, 83, 84);" <?php }else{ ?> style="color:RGB(100, 100, 100);" <?php };?>>
-    <?php if (substr_count($json_data['features'][$b]['properties']['place'],'Valparaiso') > 0 || substr_count($json_data['features'][$b]['properties']['place'],'Cartagena') > 0) { $costacentral++; };?>
-    <?php date_default_timezone_set("America/Santiago"); $date_local = date("d-m-Y H:m:s",$json_data['features'][$b]['properties']['time']/1000);?>
-    <?php echo ($date_local.' hora local');?> &bull; M <?php echo ($json_data['features'][$b]['properties']['mag']);?> &bull; <?php $solociudad = substr($json_data['features'][$b]['properties']['place'], strpos($json_data['features'][$b]['properties']['place'], "f") + 1); echo $solociudad;?> &bull; <a href="earthquake-details.php?url=<?php echo ($json_data['features'][$b]['properties']['detail']);?>">Más detalles</a>.
+    <li <?php if ($json_data['features'][$n]['properties']['mag'] >= 6){?> style="color:RGB(224, 21, 36);" <?php } elseif($json_data['features'][$n]['properties']['mag'] >= 5){ ?> style="color:RGB(149, 83, 84);" <?php }else{ ?> style="color:RGB(100, 100, 100);" <?php };?>>
+    <?php if (substr_count($json_data['features'][$n]['properties']['place'],'Valparaiso') > 0 || substr_count($json_data['features'][$n]['properties']['place'],'Cartagena') > 0) { $costacentral++; };?>
+    <?php date_default_timezone_set("America/Santiago"); $date_local = date("d-m-Y H:m:s",$json_data['features'][$n]['properties']['time']/1000);?>
+    <?php echo ($date_local.' hora local');?> &bull; M <?php echo ($json_data['features'][$n]['properties']['mag']);?> &bull; <?php $solociudad = substr($json_data['features'][$n]['properties']['place'], strpos($json_data['features'][$n]['properties']['place'], "f") + 1); echo $solociudad;?> &bull; <a href="earthquake-details.php?url=<?php echo ($json_data['features'][$n]['properties']['detail']);?>">Más detalles</a>.
     </li>
     <?php } ;?>
     <?php } ;?>
