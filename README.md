@@ -37,5 +37,5 @@ Entre las instrucciones podemos aprovechar las funciones internas (incluídas) d
 - [x] [CLAUDIA MORENO](http://profesor.faco.cl/dno037-2017-08/moreno/)
 - [x] [DENISSE ORTEGA](http://profesor.faco.cl/dno037-2017-08/ortega/)
 - [x] [PAULA PINTO](http://profesor.faco.cl/dno037-2017-08/pinto/)
-- [ ] ISIDORA QUEVEDO
+- [x] [ISIDORA QUEVEDO](http://profesor.faco.cl/dno037-2017-08/quevedo/)
 - [x] [MAGDALENA STEPHENS](http://profesor.faco.cl/dno037-2017-08/stephens/)
