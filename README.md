@@ -17,3 +17,25 @@ Las páginas web que usan extensión `*.php` se pueden crear de la misma manera 
 Entre `<?php` y `?>` se pueden escribir una o varias instrucciones. Si se escriben varias, éstas deben separarse mediante punto y coma `;`.
 
 Entre las instrucciones podemos aprovechar las funciones internas (incluídas) de PHP; es muy dificil que exista alguien capaz de aprender de memoria todas las `funciones()` que ofrece este lenguaje de programación, pero en el [sitio oficial de PHP](http://php.net/manual/es/langref.php), y en [varios lugares más](http://stackoverflow.com/questions/tagged/php), se puede encontrar mucha ayuda.
+
+#### Resultados
+
+- [x] [MACARENA ALFARO](http://profesor.faco.cl/dno037-2017-08/alfaro/)
+- [x] [MARIELA CAMPOS](http://profesor.faco.cl/dno037-2017-08/campos/)
+- [x] [MACARENA CASTILLO](http://profesor.faco.cl/dno037-2017-08/castillo/)
+- [x] [TERESA CHAVARRI](http://profesor.faco.cl/dno037-2017-08/chavarri/)
+- [x] [JORDANNA DE LA HOZ](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [x] [MAGDALENA DEROSAS](http://profesor.faco.cl/dno037-2017-08/derosas/)
+- [x] [JOSEFINA GAJARDO](http://profesor.faco.cl/dno037-2017-08/gavilan/)
+- [x] [BASTIAN GARCES](http://profesor.faco.cl/dno037-2017-08/garces/)
+- [x] [IGNACIO GAVILAN](http://profesor.faco.cl/dno037-2017-08/gavilan/)
+- [ ] ANTONIA HURTADO
+- [ ] FERNANDA LARRAIN
+- [x] [FELIPE LEIVA](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [x] [FRANCISCA LÓPEZ](http://profesor.faco.cl/dno037-2017-08/lopez/)
+- [ ] CONSTANZA MORALES
+- [x] [CLAUDIA MORENO](http://profesor.faco.cl/dno037-2017-08/moreno/)
+- [x] [DENISSE ORTEGA](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [x] [PAULA PINTO](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [ ] ISIDORA QUEVEDO
+- [x] [MAGDALENA STEPHENS](http://profesor.faco.cl/dno037-2017-08/stephens/)
