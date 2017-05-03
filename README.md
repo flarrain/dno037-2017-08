@@ -30,7 +30,7 @@ Entre las instrucciones podemos aprovechar las funciones internas (incluídas) d
 - [x] [BASTIAN GARCES](http://profesor.faco.cl/dno037-2017-08/garces/)
 - [x] [IGNACIO GAVILAN](http://profesor.faco.cl/dno037-2017-08/gavilan/)
 - [ ] ANTONIA HURTADO
-- [ ] FERNANDA LARRAIN
+- [ ] [FERNANDA LARRAIN](http://profesor.faco.cl/dno037-2017-08/larrain/)
 - [x] [FELIPE LEIVA](http://profesor.faco.cl/dno037-2017-08/leiva/)
 - [x] [FRANCISCA LÓPEZ](http://profesor.faco.cl/dno037-2017-08/lopez/)
 - [ ] CONSTANZA MORALES
