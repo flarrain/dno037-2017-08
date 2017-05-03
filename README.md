@@ -24,9 +24,9 @@ Entre las instrucciones podemos aprovechar las funciones internas (incluídas) d
 - [x] [MARIELA CAMPOS](http://profesor.faco.cl/dno037-2017-08/campos/)
 - [x] [MACARENA CASTILLO](http://profesor.faco.cl/dno037-2017-08/castillo/)
 - [x] [TERESA CHAVARRI](http://profesor.faco.cl/dno037-2017-08/chavarri/)
-- [x] [JORDANNA DE LA HOZ](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [x] [JORDANNA DE LA HOZ](http://profesor.faco.cl/dno037-2017-08/de_la_hoz/)
 - [x] [MAGDALENA DEROSAS](http://profesor.faco.cl/dno037-2017-08/derosas/)
-- [x] [JOSEFINA GAJARDO](http://profesor.faco.cl/dno037-2017-08/gavilan/)
+- [x] [JOSEFINA GAJARDO](http://profesor.faco.cl/dno037-2017-08/gajardo/)
 - [x] [BASTIAN GARCES](http://profesor.faco.cl/dno037-2017-08/garces/)
 - [x] [IGNACIO GAVILAN](http://profesor.faco.cl/dno037-2017-08/gavilan/)
 - [ ] ANTONIA HURTADO
@@ -35,7 +35,7 @@ Entre las instrucciones podemos aprovechar las funciones internas (incluídas) d
 - [x] [FRANCISCA LÓPEZ](http://profesor.faco.cl/dno037-2017-08/lopez/)
 - [ ] CONSTANZA MORALES
 - [x] [CLAUDIA MORENO](http://profesor.faco.cl/dno037-2017-08/moreno/)
-- [x] [DENISSE ORTEGA](http://profesor.faco.cl/dno037-2017-08/leiva/)
-- [x] [PAULA PINTO](http://profesor.faco.cl/dno037-2017-08/leiva/)
+- [x] [DENISSE ORTEGA](http://profesor.faco.cl/dno037-2017-08/ortega/)
+- [x] [PAULA PINTO](http://profesor.faco.cl/dno037-2017-08/pinto/)
 - [ ] ISIDORA QUEVEDO
 - [x] [MAGDALENA STEPHENS](http://profesor.faco.cl/dno037-2017-08/stephens/)
